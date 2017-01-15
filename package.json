@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": ">= 2.0.9",
+    "sqs-consumer": "^3.4.0"
+  }
+}
